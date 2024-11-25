@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![duste](https://github.com/user-attachments/assets/f7d76ece-e0a4-48a6-b241-f5f918b3d5e2)
 
 ### Output:
-
-
+![image](https://github.com/user-attachments/assets/095608de-7ff9-43ee-aa6e-1956d0259670)
 ### Name:
 ### Register Number:
 
